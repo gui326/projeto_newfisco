@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe Id="NFe31211015436940000952550010055375721154560120" versao="4.00"><ide><cUF>31</cUF><cNF>15456012</cNF><natOp>Venda de Mercadoria destinada a nao contribuinte</natOp><mod>55</mod><serie>1</serie><nNF>5537572</nNF><dhEmi>2021-10-17T19:46:58-03:00</dhEmi><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106705</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>0</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal><indPres>2</indPres><indIntermed>0</indIntermed><procEmi>0</procEmi><verProc>1.0</verProc></ide><emit><CNPJ>15436940000952</CNPJ><xNome>AMAZON SERVICOS DE VAREJO DO BRASIL LTDA</xNome><xFant>AMAZON.COM.BR</xFant><enderEmit><xLgr>AVENIDA JUIZ MARCO TULIO ISAAC</xLgr><nro>7000</nro><xBairro>CHACARA</xBairro><cMun>3106705</cMun><xMun>BETIM</xMun><UF>MG</UF><CEP>32670250</CEP><cPais>1058</cPais><xPais>BRASIL</xPais></enderEmit><IE>0026685900504</IE><CRT>3</CRT></emit><dest><CPF>44769712880</CPF><xNome>Guilherme Batista da Silva</xNome><enderDest><xLgr>Avenida Nelson Freire</xLgr><nro>1078</nro><xCpl>Casa de fundo Leblon</xCpl><xBairro>Leblon</xBairro><cMun>3170107</cMun><xMun>Uberaba</xMun><UF>MG</UF><CEP>38030000</CEP><cPais>1058</cPais><fone>5534999540989</fone></enderDest><indIEDest>9</indIEDest></dest><det nItem="1"><prod><cProd>B07CVHRMJT</cProd><cEAN>7896003810783</cEAN><xProd>Lixeira Redonda Basculante Plastico, Primafer, Preto</xProd><NCM>39249000</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>1</qCom><vUnCom>22.30</vUnCom><vProd>22.30</vProd><cEANTrib>7896003810783</cEANTrib><uTrib>UN</uTrib><qTrib>1</qTrib><vUnTrib>22.30</vUnTrib><indTot>1</indTot><xPed>81366408395301</xPed></prod><imposto><vTotTrib>9.04</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>22.30</vBC><pICMS>18.0000</pICMS><vICMS>4.01</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISAliq><CST>01</CST><vBC>22.30</vBC><pPIS>1.6500</pPIS><vPIS>0.37</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>22.30</vBC><pCOFINS>7.6000</pCOFINS><vCOFINS>1.69</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem="2"><prod><cProd>B06XJ6JZG9</cProd><cEAN>7500435110662</cEAN><xProd>Escova Dental Oral-B Ultrafino 2 Unidades, Oral-B</xProd><NCM>96032100</NCM><CEST>2005800</CEST><CFOP>5102</CFOP><uCom>UN</uCom><qCom>2</qCom><vUnCom>18.71</vUnCom><vProd>37.42</vProd><cEANTrib>7500435110662</cEANTrib><uTrib>UN</uTrib><qTrib>2</qTrib><vUnTrib>18.71</vUnTrib><indTot>1</indTot><xPed>81366408395301</xPed></prod><imposto><vTotTrib>16.46</vTotTrib><ICMS><ICMS00><orig>2</orig><CST>00</CST><modBC>3</modBC><vBC>37.42</vBC><pICMS>18.0000</pICMS><vICMS>6.74</vICMS></ICMS00></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISNT><CST>04</CST></PISNT></PIS><COFINS><COFINSNT><CST>04</CST></COFINSNT></COFINS></imposto><infAdProd>INCISO I, B, DO ART. 1 DA LEI N 10.147/00, COM AS ALTERACOES DA MP N 609, DE 2013;</infAdProd></det><total><ICMSTot><vBC>59.72</vBC><vICMS>10.75</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>59.72</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.37</vPIS><vCOFINS>1.69</vCOFINS><vOutro>0.00</vOutro><vNF>59.72</vNF><vTotTrib>25.50</vTotTrib></ICMSTot></total><transp><modFrete>0</modFrete><transporta/></transp><pag><detPag><indPag>1</indPag><tPag>03</tPag><vPag>59.72</vPag></detPag></pag><infAdic><infAdFisco>De acordo com a cls 5, par 2 do Convenio ICMS 93 2015 o ICMS devido ao destino sera recolhido ate o 15 dia do mes subsequente, em razao da inscricao no Cadastro de Contribuintes do ICMS no referido Estado.</infAdFisco><infCpl>Valor aproximado dos tributos: Federal - R$ 16.52 (27.66%); Estadual - R$ 8.99 (15.05%); Municipal - R$ 0.00 (0.00%) - Fonte IBPT. Numero do pedido da compra: 702-5545078-5922612</infCpl><obsCont xCampo="icmsTransporte"><xTexto>1</xTexto></obsCont></infAdic><compra/><infRespTec><CNPJ>15436940000103</CNPJ><xContato>Amazon Servicos de Varejo do Brasil Ltda.</xContato><email>i2c-br-team-ext@amazon.com</email><fone>08000380541</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe31211015436940000952550010055375721154560120"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>Y0oP5u1pSe9q/ako6lOXkfxP7r4=</DigestValue></Reference></SignedInfo><SignatureValue>ITyzpJvvXKTzmwIkHzWL7J8xd3Xf5ISPIynV1S2uxhpJqxr1YwjBC3jPDuJTHkzAIKTIEEojFqrC&#13;
+qKsnUHdVT+waZHx3eZUGgjIBWvp+QYqFWzO8dPd+d2tne3bbq7L5q5rK2s907Jf2Qnhl7RKy3sa4&#13;
+aPvslVo1KINonAABSwAiyformXtfqscGghd2PoAIxmCsmto2km2+VdXWlC9cf3gG2D060zLyW/0F&#13;
+p2if1g3zdoaKU303hVP4bASWZNoD+ekCsY/szvpVymmOL8IdkxYLAvn2TYmxAb/K6euThWVPXNVa&#13;
+Gor7KlJdj0Zw8JT3KV+Y/mDHK7cNcpXOq05Jgw==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHRDCCBSygAwIBAgIIEd4hBAlSYwQwDQYJKoZIhvcNAQELBQAwWTELMAkGA1UEBhMCQlIxEzAR&#13;
+BgNVBAoTCklDUC1CcmFzaWwxFTATBgNVBAsTDEFDIFNPTFVUSSB2NTEeMBwGA1UEAxMVQUMgU09M&#13;
+VVRJIE11bHRpcGxhIHY1MB4XDTIxMDQwOTE5NTkwMFoXDTIyMDQwOTE5NTkwMFowge4xCzAJBgNV&#13;
+BAYTAkJSMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMQswCQYDVQQIEwJTUDEQMA4GA1UEBxMHSXRhdGli&#13;
+YTEeMBwGA1UECxMVQUMgU09MVVRJIE11bHRpcGxhIHY1MRcwFQYDVQQLEw4wOTQ2MTY0NzAwMDE5&#13;
+NTETMBEGA1UECxMKUHJlc2VuY2lhbDEaMBgGA1UECxMRQ2VydGlmaWNhZG8gUEogQTExQTA/BgNV&#13;
+BAMTOEFNQVpPTiBTRVJWSUNPUyBERSBWQVJFSk8gRE8gQlJBU0lMIExUREEuOjE1NDM2OTQwMDAw&#13;
+MTAzMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArKc/775N4aN0glEciH5Rev3exc9y&#13;
+aJUybZkyNVwAbhCZkNN0zBu+qQoTO9zSoRK4yXtiGdUZdTlcVYwcD051vKvQwl53aPLOG9kH8xzX&#13;
+P9iuF2rVkKVxjnAICd/t6hY89P2ICeRgTTN1ldJsbbGQ4Y0ck4GcrrEaYqq8v6iQcE6t07GF6Dj/&#13;
+dV8L0EW/q4bXZVMvPj3YtHtNNjmfzbgnS9pwnf4YkAgqIdosW55EFIQ5TFgZV9/5vkuByx0tJUMB&#13;
+ZVsfdd54QrvZ/jCLM6nwN9bIsyUD6B2dvo7B2d0yd3CccawDEdogtgnVxZ64ZHaJx6NUvOvf3ELf&#13;
+lQTbBDF+YwIDAQABo4ICeDCCAnQwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBTFUu0lgAnfnILIn0fG&#13;
+3bRfMd25sTBUBggrBgEFBQcBAQRIMEYwRAYIKwYBBQUHMAKGOGh0dHA6Ly9jY2QuYWNzb2x1dGku&#13;
+Y29tLmJyL2xjci9hYy1zb2x1dGktbXVsdGlwbGEtdjUucDdiMIGzBgNVHREEgaswgaiBEW9zbWFy&#13;
+ZkBhbWF6b24uY29toCUGBWBMAQMCoBwTGlJJQ0FSRE8gSk9TRSBUSE9NQVogUEFHQU5JoBkGBWBM&#13;
+AQMDoBATDjE1NDM2OTQwMDAwMTAzoDgGBWBMAQMEoC8TLTAzMDgxOTYxMDI0Njc4Mjk4NjMwMDAw&#13;
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwXQYDVR0gBFYw&#13;
+VDBSBgZgTAECASYwSDBGBggrBgEFBQcCARY6aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvZG9j&#13;
+cy9kcGMtYWMtc29sdXRpLW11bHRpcGxhLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUH&#13;
+AwQwgYwGA1UdHwSBhDCBgTA+oDygOoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2Fj&#13;
+LXNvbHV0aS1tdWx0aXBsYS12NS5jcmwwP6A9oDuGOWh0dHA6Ly9jY2QyLmFjc29sdXRpLmNvbS5i&#13;
+ci9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXY1LmNybDAdBgNVHQ4EFgQUmvHXA0+JV666Sbhb3XZq&#13;
+bmlyH1gwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQAtyyZOHzOYVR6MiKv2JkeD&#13;
+EbNiyKosAarWIHYj5E8iV3gE/xPPJG7nhEMyj0BA8S8Nc/GtdqWIClJLWao/EBc/L9eZOa49dHBQ&#13;
+dnFtcTm6u5GRtry5989itlYnceN43+qMepEh/Yysq7a9uEsABxrqZ59KFJidwLNU5KOjZ26iLDSi&#13;
+GmPI3D4Qrj//c1W9iQxh1m7NtXYdel3gv3JRUfFK8wseJSU0DQwDih68/BxGTJ0GWYIWttjyYBeB&#13;
+CvAetvnh+K2LFU4htMy7tD3Xh9iO6f1N0x47WE91JsRf3vT+WNFOmu+5p87lyVG5J9CXZAlup6TG&#13;
+oZGnKW3/wUQ1MQLYNGsmelsaMaL1VDmFtWvGkDBaTtu+9UpbRlg30buj2xxnHjywXzL7JgWdsfR+&#13;
+5tYWQZFE/RHfPzjPmiIPk1RvEeQ42vXcYQHxoVQXFf4CFGQVRC/I4UaVd1MK1Af/BNh2nITNl4y5&#13;
+ZznuqFIe6SRdVCfXsruB8WTAvGr5sGWcJfPWGJFcLeMAjK8vClUGTpfpPfkFEgaWMfizz9KCbci8&#13;
+JCwdUlXDbMyRNcVzTHos8U0JSN0CokedkQINt1EuEiVxjcqzCQuj2yocLBshTbCilxQu9+WxigyF&#13;
+bqp6ynp5cwxLnvT8TuICjKOtqabFkcpvrJEofuSREVD20TDd5J+keg==</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00">
+    <infProt>
+      <tpAmb>1</tpAmb>
+      <verAplic>14.4.34-ZB1</verAplic>
+      <chNFe>31211015436940000952550010055375721154560120</chNFe>
+      <dhRecbto>2021-10-17T19:47:04-03:00</dhRecbto>
+      <nProt>131214388032738</nProt>
+      <digVal>Y0oP5u1pSe9q/ako6lOXkfxP7r4=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe></nfeProc>

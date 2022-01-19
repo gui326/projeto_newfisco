@@ -1,0 +1,205 @@
+a{
+  text-decoration: none;
+}
+
+.navbarG{
+  width: 100%;
+  background: white!important;
+}
+
+li.nav-item{
+    padding: 0 15px;
+    font-weight: 700;
+}
+nav {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+p, a, h1, h2, h3, h4, h5, h6, label, button{
+  font-family: inter;
+}
+.navActive a{
+  color: #CA408B!important;
+  font-weight: 800;
+}
+.colorPatternPrimary{
+  color: #CA408B;
+}
+.labelMinus{
+  font-size: 12px;
+}
+.cardHome{
+  border-radius: 25px!important;
+  color: #CA408B;
+  border: none;
+  background: white;
+  padding: 35px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.cardPatternOne{
+  border-radius: 25px!important;
+  padding: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btnCadastrar{
+  border: 1px solid #CA408B;
+  background: white;
+  color: #CA408B;
+  height: 50px;
+  font-weight: 600;
+  font-family: 'inter';
+  font-size: 20px;
+  width: 60%!important;
+  border-radius: 20px;
+}
+.btnCadastrar:hover, .btnCadastrar:focus, .btnCadastrar:active{
+  background: #871251;
+  border-color: white;
+  color: white;
+}
+
+.cardDuvida{
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 30px;
+}
+
+.btnContato{
+  background: #CA408B;
+  color: white;
+  font-weight: 800;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: none;
+  width: 200px;
+  height: 70px;
+  font-size: 25px;
+}
+
+.btnContato:hover,.btnContato:active,.btnContato:focus{
+  background: #942261!important;
+  color: white!important;
+}
+
+.cardPatternPurple{
+    background: #CA408B;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: white;
+    border-radius: 15px;
+    border: none!important;
+}
+.cardPatternPurple i{
+    font-size: 70px;
+    margin-bottom: 15%;
+    margin-top: 7%;
+}
+
+.cardPatternGrey{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: 50%;
+    background: #4D4646;
+    color: white;
+    border-radius: 15px;
+    border: none!important;
+}
+
+.cardPatternGrey i{
+    font-size: 70px;
+    margin-bottom: 15%;
+    margin-top: 7%;
+}
+
+.cardContato{
+  border-radius: 25px!important;
+  color: white;
+  background: white;
+  padding: 35px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btnEnviar{
+  background: #CA408B;
+  color: white;
+  width: 100%;
+  height: 60px;
+  font-size: 20px;
+  border: none;
+  font-weight: 700;
+  border-radius: 15px;
+}
+
+.btnEnviar:hover, .btnEnviar:focus, .btnEnviar:active{
+  background: #871251;
+  color: white;
+  width: 100%;
+  height: 60px;
+  font-size: 20px;
+  border: none;
+  font-weight: 700;
+  border-radius: 15px;
+}
+
+.inputPatternOne {
+  height: 50px;
+  border-radius: 25px;
+  padding-left: 23px;
+}
+
+#sectionContato{
+  background-size: 100% 100%;
+  background-color: #ca408b;
+  background-blend-mode: soft-light;
+  padding-top: 1%;
+  height: 100vh;
+}
+
+.cardCadastro{
+  border-radius: 25px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 3%;
+  margin-top: 2%;
+}
+
+.btnCadastro{
+  border-radius: 15px;
+  font-size: 18px;
+  font-weight: 800;
+  width: 170px!important;
+  height: 50px!important;
+  background: #ca408b!important;
+  color: white;
+  border: 1px solid #ca408b!important;
+  box-shadow: rgb(0 0 0 / 16%) 0px 10px 36px 0px, rgb(0 0 0 / 6%) 0px 0px 0px 1px;
+}
+
+.btnCadastro:hover,.btnCadastro:active,.btnCadastro:focus{
+  background: #c71f7b!important;
+  color: white!important;
+  border: 1px solid #c71f7b!important;
+}
+
+
+.cardLogin{
+  border-radius: 25px;
+  padding: 3% 7%;
+  box-shadow: 12px 12px #b5b5b5;
+  width: 80%;
+}
+
+.btnLogin{
+  width: 100%;
+  height: 60px;
+  font-size: 19px;
+  font-weight: 800;
+  background: white;
+  border: 1px solid #444!important;
+  margin-bottom: 10px;
+  color: #444;
+  border-radius: 15px;
+}
+
+.btnLogin:hover{
+  background: #444;
+  border: 1px solid #444!important;
+  color: white;
+}
